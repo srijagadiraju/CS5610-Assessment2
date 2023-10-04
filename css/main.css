@@ -34,7 +34,7 @@ h2 {
 }
 
 .host-picture {
-    display: block; /* Make the image a block element */
-    margin: 0 auto; /* Center horizontally */
+    display: block;
+    margin: 0 auto; 
   }
   
